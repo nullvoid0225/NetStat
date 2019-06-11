@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\bin\Debug\mook_NetStat.exe.config
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\bin\Debug\mook_NetStat.exe
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\bin\Debug\mook_NetStat.pdb
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.Form1.resources
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.exe
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.pdb
+C:\CSharpProject\Chap08\mook_NetStat\mook_NetStat\obj\Debug\mook_NetStat.csproj.CoreCompileInputs.cache
