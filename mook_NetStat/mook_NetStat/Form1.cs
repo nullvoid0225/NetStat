@@ -29,6 +29,7 @@ namespace mook_NetStat
         string LocPort, RemoAdd, RemoPort; //포트 정보 저장
         bool CheckBool = true; // 입력 컨트롤 Enabled
 
+        //delegate
         private delegate void OnNetStatDelegate(string a,
             string b, string c, string d, string e, int i, bool f, bool En);
         private OnNetStatDelegate OnNetSate = null;
